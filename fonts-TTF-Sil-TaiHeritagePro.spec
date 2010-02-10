@@ -10,6 +10,7 @@ Group:		Fonts
 Source0:	TaiHeritagePro%{ver}.zip
 # Source0-md5:	c8bdd7f921cdca75fff89e8ea1a078fa
 URL:		http://scripts.sil.org/cms/SCRIPTs/page.php?site_id=nrsi&item_id=TaiHeritage
+BuildRequires:	unzip
 Requires(post,postun):	fontpostinst
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
