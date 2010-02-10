@@ -2,7 +2,7 @@ Summary:	Free TrueType font for Tai Viet script
 Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma taj viet
 Name:		fonts-TTF-Sil-TaiHeritagePro
 Version:	2.0
-%define	_ver	( echo %{version} | tr . _ )
+%define	_ver	%(echo %{version} | tr . _)
 Release:	1
 License:	OFL, distributable
 Group:		Fonts
