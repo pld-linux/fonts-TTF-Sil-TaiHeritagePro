@@ -4,9 +4,9 @@ Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pisma taj viet
 Name:		fonts-TTF-Sil-TaiHeritagePro
 Version:	2.0
 Release:	1
-License:	OFL, distributable
+License:	SIL OFL, distributable
 Group:		Fonts
-# Source0Download: http://scripts.sil.org/cms/SCRIPTs/render_download.php?site_id=nrsi&format=file&media_id=TaiHeritagePro2_0.zip&filename=TaiHeritagePro2_0.zip
+# Source0Download:	http://scripts.sil.org/cms/SCRIPTs/render_download.php?site_id=nrsi&format=file&media_id=TaiHeritagePro2_0.zip&filename=TaiHeritagePro2_0.zip
 Source0:	TaiHeritagePro%{ver}.zip
 # Source0-md5:	c8bdd7f921cdca75fff89e8ea1a078fa
 URL:		http://scripts.sil.org/cms/SCRIPTs/page.php?site_id=nrsi&item_id=TaiHeritage
